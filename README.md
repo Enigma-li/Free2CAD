@@ -1,5 +1,5 @@
 # Free2CAD: Parsing Freehand Drawings into CAD Commands
-![](docs/teaser.png)
+![](doc/teaser.png)
 
 ## Introduction
 This repository contains the implementation of [Free2CAD](http://geometry.cs.ucl.ac.uk/projects/2022/free2cad/) proposed in our SIGGRAPH 2022 paper.
