@@ -7,7 +7,7 @@ Clone the repository and enter the network training part:
     git clone https://github.com/Enigma-li/Free2CAD.git
     cd networkTraining
 
-There are four sub-folders under the training project root ***networkTraining*** folder.
+There are three sub-folders under the training project root ***networkTraining*** folder.
 * *libs* folder contains the custom training data decoder implemented in C++ and imported as custom ops in TensorFLow framework.
 * *script* folder contains the network building, data loading, training and testing scripts.
 * *utils* folder contains the utility functions.
