@@ -4,7 +4,7 @@ In this part, there will be instructions for downloading data, checkpoint and sa
 
 ## Training data
 
-Details about data rendering, please refer to the paper in our [project page](http://geometry.cs.ucl.ac.uk/projects/2020/free2cad/). Totally, we generate about 160k data items for training and 50k data items for testing (with data augmentation), with size of about **26.5GB** and **5.93GB** after two passes of compression (zlib and TFRecord).
+Details about data rendering, please refer to the paper in our [project page](http://geometry.cs.ucl.ac.uk/projects/2022/free2cad/). Totally, we generate about 160k data items for training and 50k data items for testing (with data augmentation), with size of about **26.5GB** and **5.93GB** after two passes of compression (zlib and TFRecord).
 
 Now we provide the link for downloading training datasets:
 
