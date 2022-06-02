@@ -14,7 +14,7 @@ The code is released under the **MIT license**.
 ### Network training
 This part contains the **Python** code for building, training and testing the nueral network using [TensorFlow](https://www.tensorflow.org/). 
 
-💡 Great news: we have released the **docker file** used for training to ease the burden for configuration, please read README file within the *networkTraining* folder for more details.
+💡 Great news: we have released the **docker image** used for training to ease the burden for configuration, please read README file within the *networkTraining* folder for more details.
 
 ### Training dataset and network deployment
 This part contains the code for deploying the trained network in a C++ project that can be an interactive 3D modeling application. It also provides instructions to download the training dataset we generated, and our trained networks. 

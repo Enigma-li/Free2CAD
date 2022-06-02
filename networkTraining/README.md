@@ -19,7 +19,7 @@ We highly recommend to use docker to maintain the developing environment, and we
 
 ### Free2CAD Docker Image
 
-You can download the docker image from the link：[Free2CAD_Docker](https://github.com/Enigma-li/Free2CAD), after downloading, you can simply load it, then you are ready to train/test the nueral networks.
+You can download the docker image from the link：[Free2CAD_DockerImage](https://connecthkuhk-my.sharepoint.com/:f:/g/personal/changjli_connect_hku_hk/EgHtViQo535IszMODFxn1HgB8hbRD66dEzEyOsdiiLhCyQ?e=qU7MuG), after downloading, you can simply load it, then you are ready to train/test the nueral networks.
 
 ### Configure from scratch
 
