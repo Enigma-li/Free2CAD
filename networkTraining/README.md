@@ -28,7 +28,7 @@ Below are the main package/library versions that are used:
 * TensorFlow: ***2.3.0***
 * Python: ***3.6***
 * Cuda: ***10.1***
-* Cudnn: ***7.0***
+* Cudnn: ***7.6***
 
 Other packages could be installed via `pip` if needed.
 
